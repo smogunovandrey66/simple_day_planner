@@ -1,0 +1,37 @@
+{
+    "@@locale": "ru",
+    "taskAppBarTitle": "Задание",
+    "@taskAppBarTitle": {
+        "description": "Текст на панели приложений"
+    },
+
+    "taskAppBarMenu": "Показать меню",
+    "@taskAppBarMenu": {
+        "description": "Показать всплывающее меню"
+    },
+
+    "dataIsAbsent": "Нет данных",
+    "@dataIsAbsent": {
+        "description": "Сообщение, когда нет данных"
+    },
+
+    "editTask": "Редактировать задание",
+    "@editTask": {
+        "description": "Редактировать задание"
+    },
+
+    "editTemplate": "Редактировать шаблон",
+    "@editTemplate": {
+        "description": "Редактировать шаблон"
+    },
+    
+    "addingSection": "Добавление секции",
+    "@addingSection": {
+        "description": "Добавление секции"
+    },
+
+    "add": "Добавить",
+    "@add": {
+        "description": "Добавить"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "@@locale": "en",
+    "taskAppBarTitle": "Task",
+    "@taskAppBarTitle": {
+        "description": "Text shown in the AppBar of the task Page"
+    },
+
+    "taskAppBarMenu": "Show menu",
+    "@taskAppBarMenu": {
+        "description": "Show menu for popup"
+    },
+
+    "dataIsAbsent": "Data is absent",
+    "@dataIsAbsent": {
+        "description": "Message there is no data"
+    },
+
+    "editTask": "Edit task",
+    "@editTask": {
+        "description": "Edit task"
+    },
+
+    "editTemplate": "Edit tempalate",
+    "@editTemplate": {
+        "description": "Edit tempalate"
+    },
+
+    "addingSection": "Adding Section",
+    "@addingSection": {
+        "description": "Adding Section"
+    },
+
+    "add": "Add",
+    "@add": {
+        "description": "Add"
+    }
+}
